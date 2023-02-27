@@ -1,1 +1,1 @@
-This is my first README for c programming
+READMe for pointers arrays and strings 

@@ -5,8 +5,8 @@
 /*  of art is useful\"-Dora Korpar,2015-10-19*/
 
 
-int main(void)
+int main(void)/start of the program/
 {
-	printf("and that piece of art is useful\" - Dora Korpar, 2015-10-19/n");
-	return (0);
+	fprintf(stderr,"and that piece of art is useful\"-Dora Korpar,2015-10-19/n");
+	return EXIT_SUCCESS;
 }
